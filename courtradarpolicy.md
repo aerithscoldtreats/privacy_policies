@@ -2,7 +2,7 @@
 LeaGang Labas  
 Effective Date: April 1, 2026
 
-This Privacy Policy explains how LeaGang Labas (“we”, “our”, or “the app”) collects, uses, stores, and protects your information when you use the LeaGang Labas mobile application.
+This Privacy Policy explains how LeaGang Labas - CourtRadar (“we”, “our”, or “the app”) collects, uses, stores, and protects your information when you use the LeaGang Labas - CourtRadar mobile application.
 
 By using the app, you agree to the collection and use of information in accordance with this policy.
 
@@ -124,8 +124,8 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 
 If you have any questions about this Privacy Policy or your data, you may contact us at:
 
-Email: johnpaulbernsrdino@saasbtech.com
-App Name: LeaGang Labas  
+Email: provacy@saasbtech.com
+App Name: LeaGang Labas - CourtRadar
 
 ---
 
