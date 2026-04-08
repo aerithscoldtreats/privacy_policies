@@ -137,7 +137,7 @@ Delete your personal data
 Request a copy of your data
 
 To make a request, contact:
-japoybernardino@gmail.com
+privacy@saasbtech.com
 
 11. Changes to This Policy
 
@@ -148,5 +148,5 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 If you have any questions about this Privacy Policy, contact us at:
 
 Email: 
-japoybernardino@gmail.com
+privacy@saasbtech.com
 App Name: PersoFly – AI Travel Agent
